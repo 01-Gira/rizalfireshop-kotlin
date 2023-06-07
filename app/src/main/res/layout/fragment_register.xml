@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".ui.auth.login.LoginFragment">
+
+
+    <EditText
+        android:id="@+id/ed_name_register"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="100dp"
+        android:hint="@string/name"
+        android:inputType="text"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        android:autofillHints="no" />
+
+    <EditText
+        android:id="@+id/ed_email_register"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:hint="@string/email"
+        android:inputType="textEmailAddress"
+        app:layout_constraintEnd_toEndOf="@+id/ed_name_register"
+        app:layout_constraintStart_toStartOf="@+id/ed_name_register"
+        app:layout_constraintTop_toBottomOf="@+id/ed_name_register"
+        android:autofillHints="no"
+        />
+
+    <EditText
+        android:autofillHints="password"
+        android:id="@+id/ed_password_register"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:hint="@string/password"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="@+id/ed_email_register"
+        app:layout_constraintStart_toStartOf="@+id/ed_email_register"
+        app:layout_constraintTop_toBottomOf="@+id/ed_email_register" />
+
+    <EditText
+        android:autofillHints="password"
+        android:id="@+id/ed_c_password_register"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:hint="@string/confirm_password"
+        android:inputType="textPassword"
+        app:layout_constraintEnd_toEndOf="@+id/ed_password_register"
+        app:layout_constraintStart_toStartOf="@+id/ed_password_register"
+        app:layout_constraintTop_toBottomOf="@+id/ed_password_register" />
+
+    <Button
+        android:id="@+id/btn_register"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:text="@string/register"
+        app:layout_constraintEnd_toEndOf="@+id/ed_c_password_register"
+        app:layout_constraintStart_toStartOf="@+id/ed_c_password_register"
+        app:layout_constraintTop_toBottomOf="@+id/ed_c_password_register" />
+
+    <Button
+        android:id="@+id/btn_back"
+        android:layout_width="300dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="70dp"
+        android:backgroundTint="@color/white"
+        android:text="@string/back"
+        android:textColor="@color/red"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ed_c_password_register" />
+
+    <ProgressBar
+        android:id="@+id/pb_register"
+        android:layout_width="50dp"
+        android:layout_height="50dp"
+        android:layout_marginTop="16dp"
+        android:visibility="gone"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toBottomOf="@+id/ed_c_password_register" />
+</androidx.constraintlayout.widget.ConstraintLayout>

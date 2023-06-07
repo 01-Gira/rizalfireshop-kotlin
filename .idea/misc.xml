@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/drawable/ic_bag_boldline.xml" value="0.1045" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/drawable/ic_bag_outline.xml" value="0.1045" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/drawable/ic_microphone.xml" value="0.1045" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/drawable/icon_background.xml" value="0.1045" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/drawable/nav_icon_bag.xml" value="0.1045" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/drawable/nav_icon_home.xml" value="0.1045" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/drawable/nav_icon_profile.xml" value="0.1045" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/drawable/nav_icon_search.xml" value="0.1045" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/drawable/search_box_background.xml" value="0.1045" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/layout/activity_main.xml" value="0.15" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/layout/activity_splash_screen.xml" value="0.17074275362318841" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/layout/fragment_register.xml" value="0.25" />
+        <entry key="..\:/Project/Kotlin/RendyFashionStore/app/src/main/res/menu/bottom_nav_menu.xml" value="0.1" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/drawable/ic_baseline_error_24.xml" value="0.189" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/drawable/ic_broken_image_black.xml" value="0.189" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/drawable/ic_error.xml" value="0.1055" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/drawable/ic_loading.xml" value="0.1055" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/drawable/ic_refresh_black.xml" value="0.1055" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/layout/activity_auth.xml" value="0.25" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/layout/activity_main.xml" value="0.14130434782608695" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/layout/activity_splash_screen.xml" value="0.16485507246376813" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/layout/fragment_bag.xml" value="0.22327898550724637" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/layout/fragment_cart.xml" value="0.22447916666666667" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/layout/fragment_home.xml" value="0.18" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/layout/fragment_login.xml" value="0.67" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/layout/fragment_profile.xml" value="0.25" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/layout/fragment_register.xml" value="0.33" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/layout/item_product_latest.xml" value="0.27692307692307694" />
+        <entry key="..\:/Project/Kotlin/RizalFireShop/app/src/main/res/menu/bottom_nav_menu.xml" value="0.11302083333333333" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

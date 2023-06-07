@@ -1,0 +1,122 @@
+{
+  "project_info": {
+    "project_number": "322567994314",
+    "firebase_url": "https://rizal-fire-shop-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "rizal-fire-shop",
+    "storage_bucket": "rizal-fire-shop.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322567994314:android:248a256328af0955daad33",
+        "android_client_info": {
+          "package_name": "com.gira.rendyfashionstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322567994314-kblqfud480ptn82afnte9hu3el150hje.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gira.rendyfashionstore",
+            "certificate_hash": "5be24323c711d99f02012a5543f76efe3910e3d0"
+          }
+        },
+        {
+          "client_id": "322567994314-i1vd6p7f1e3239ii561lfq6tjv256ihu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH9nzn4-2i65v9jHXRl69bjinkezgnRHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322567994314-i1vd6p7f1e3239ii561lfq6tjv256ihu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322567994314:android:f63c7f1b05b94713daad33",
+        "android_client_info": {
+          "package_name": "com.gira.rizalfireshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322567994314-mcsv2i77f5dclgpomltg75449tlhfimf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gira.rizalfireshop",
+            "certificate_hash": "5be24323c711d99f02012a5543f76efe3910e3d0"
+          }
+        },
+        {
+          "client_id": "322567994314-i1vd6p7f1e3239ii561lfq6tjv256ihu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH9nzn4-2i65v9jHXRl69bjinkezgnRHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322567994314-i1vd6p7f1e3239ii561lfq6tjv256ihu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:322567994314:android:d3cf756727ed67f0daad33",
+        "android_client_info": {
+          "package_name": "com.gira.rizalfireshopadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "322567994314-h42n8a4g94gp9udbrpeorehjesa5u1k7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gira.rizalfireshopadmin",
+            "certificate_hash": "5be24323c711d99f02012a5543f76efe3910e3d0"
+          }
+        },
+        {
+          "client_id": "322567994314-i1vd6p7f1e3239ii561lfq6tjv256ihu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBH9nzn4-2i65v9jHXRl69bjinkezgnRHw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "322567994314-i1vd6p7f1e3239ii561lfq6tjv256ihu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

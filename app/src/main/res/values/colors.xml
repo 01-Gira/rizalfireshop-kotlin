@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!--    Main Color-->
+    <color name="red_light">#FFDDD8</color>
+    <color name="g_light_red">#FF9999</color>
+    <color name="red">#FF5656</color>
+    <color name="red_dark">#F55555</color>
+
+    <color name="g_card_background">#FAFDFF</color>
+    <color name="g_gray700">#666666</color>
+
+    <color name="blue_light">#69DEF2</color>
+    <color name="blue">#3DB2FF</color>
+    <color name="blue_dark">#112D4E</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <!--Gray-->
+    <color name="gray">#607D8B</color>
+    <color name="gray_light">#B0BEC5</color>
+    <color name="gray_dark">#455A64</color>
+    <color name="placeholder">#6FB6B6B6</color>
+</resources>

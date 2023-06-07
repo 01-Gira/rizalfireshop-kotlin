@@ -1,0 +1,57 @@
+<resources>
+    <string name="app_name">Rendy Fashion Store</string>
+
+    <!--    Bottom Navigation-->
+    <string name="home">Home</string>
+    <string name="search">Search</string>
+    <string name="cart">Cart</string>
+    <string name="profile">Profile</string>
+
+    <string name="logout">Logout</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign in</string>
+    <string name="sign_in_successfully">Sign in Successfully!</string>
+    <string name="join_now">Join and Register Now!</string>
+    <string name="sign_in_with_google">Sign in with google</string>
+    <string name="forgot_password">Forgot password</string>
+
+    <string name="email">Email</string>
+    <string name="email_example">user@gmail.com</string>
+    <string name="password" translatable="false">Password</string>
+    <string name="invalid_email">Invalid email address!</string>
+    <string name="enter_email">Email can not be empty!</string>
+    <string name="enter_password">Password can not be empty!</string>
+    <string name="invalid_email_or_password">Invalid Email or Password!</string>
+    <string name="dosnt_have_an_account_yet">Doesn\'t have an account yet?</string>
+    <string name="already_sign_in">You are already sign in!</string>
+
+    <!--    Register-->
+    <string name="name">Full name</string>
+    <string name="enter_name">Name can not be empty!</string>
+    <string name="password_length">Password should be at least 6 characters!</string>
+    <string name="enter_confirm_password">Confirm password can not be empty!</string>
+    <string name="password_not_match">Password does not match!</string>
+    <string name="confirm_password">Confirm password</string>
+    <string name="email_already_taken">Email already taken!</string>
+    <string name="success_register_account">Success created an account, Happy shopping!</string>
+
+    <!--    Home-->
+    <string name="search_now">Search now</string>
+    <string name="best_deal">Best deals</string>
+    <string name="best_products">Best products</string>
+    <string name="best_latest_products">Best latest products</string>
+    <string name="add_to_cart">Add to cart</string>
+    <string name="see_product">See product</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="back">Back</string>
+    <string name="login">Login</string>
+    <string name="fail">Fail</string>
+    <string name="cont">Continue</string>
+    <string name="success">Success</string>
+    <string name="cancel">Cancel</string>
+    <string name="are_you_sure">Are you sure?</string>
+
+    <!--    Message-->
+
+</resources>
